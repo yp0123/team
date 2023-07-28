@@ -54,13 +54,17 @@
                             <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-3" data-tab="sfwv" target="_self"><i class="fa fa-exchange"></i><span class="layui-left-nav"> 客房类型</span></a>
                         </li>
                         <li class="layui-nav-item">
-                            <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-3" data-tab="login" target="_self"><i class="fa fa-exchange"></i><span class="layui-left-nav"> 员工管理</span></a>
+                            <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-3" data-tab="qqq" target="_self"><i class="fa fa-exchange"></i><span class="layui-left-nav"> 员工管理</span></a>
                         </li>
                         <li class="layui-nav-item">
                             <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-3" data-tab="bsf" target="_self"><i class="fa fa-exchange"></i><span class="layui-left-nav"> 房价规则</span></a>
                         </li>
                         <li class="layui-nav-item">
                             <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-3" data-tab="sfnh" target="_self"><i class="fa fa-exchange"></i><span class="layui-left-nav"> 房态规则</span></a>
+                        </li>
+
+                        <li class="layui-nav-item">
+                             <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-3" data-tab="login" target="_self"><i class="fa fa-exchange"></i><span class="layui-left-nav"> 部门管理</span></a>
                         </li>
 
 
